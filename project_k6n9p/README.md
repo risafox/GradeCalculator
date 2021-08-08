@@ -12,7 +12,8 @@ The grade calculator will come with *many* functionalities:
 - Keep track of your courses throughout the semester
 - Enter grades as raw scores (fractions), as well as a decimal 
 number or percentage
-  
+
+![image](https://user-images.githubusercontent.com/76273100/128649056-812e908d-eadd-4206-bd38-0814f23dcbf9.png)
 
 ## Intended Audience
 This grade calculator has been designed to be **optimal for students**.
