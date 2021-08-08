@@ -1,0 +1,73 @@
+{"courses": [
+  {
+    "ideal grade": 80,
+    "assignments": [
+      {
+        "grade": 66,
+        "name": "quiz 1",
+        "weight": 7.5
+      },
+      {
+        "grade": 83.33,
+        "name": "quiz 2",
+        "weight": 7.5
+      },
+      {
+        "grade": 87,
+        "name": "quiz 3",
+        "weight": 7.5
+      },
+      {
+        "grade": 50,
+        "name": "quiz 4",
+        "weight": 7.5
+      }
+    ],
+    "name": "cpsc 210",
+    "predicted grade": 76
+  },
+  {
+    "ideal grade": 87,
+    "assignments": [
+      {
+        "grade": 100,
+        "name": "homework",
+        "weight": 5
+      },
+      {
+        "grade": 78,
+        "name": "midterm 1",
+        "weight": 20
+      },
+      {
+        "grade": 90,
+        "name": "midterm 2",
+        "weight": 20
+      }
+    ],
+    "name": "micb 302",
+    "predicted grade": 81
+  },
+  {
+    "ideal grade": 80,
+    "assignments": [
+      {
+        "grade": 81,
+        "name": "problem sets",
+        "weight": 20
+      },
+      {
+        "grade": 75,
+        "name": "labs",
+        "weight": 20
+      },
+      {
+        "grade": 100,
+        "name": "midterm",
+        "weight": 40
+      }
+    ],
+    "name": "cpsc 213",
+    "predicted grade": 78
+  }
+]}

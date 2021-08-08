@@ -1,0 +1,19 @@
+{"courses": [
+  {
+    "ideal grade": 83,
+    "assignments": [
+      {
+        "grade": 80,
+        "name": "quiz 1",
+        "weight": 20
+      },
+      {
+        "grade": 70,
+        "name": "quiz 2",
+        "weight": 120
+      }
+    ],
+    "name": "math",
+    "predicted grade": 75
+  }
+]}
